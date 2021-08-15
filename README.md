@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Abduallah Al-Mamun</h1>
 <h3 align="center">Security Enthusiast | Developer | Entrepreneur</h3>
 
-- 🔭 I’m currently working on **Cyber Security & Programing Stuff**
+- 🔭 I’m currently working on **Cyber Security & Python Programing**
 
 - 🌱 I’m currently learning **Hacking, Programing & Startup**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
 
-- ⚡ Fun fact **I think I'm exception than other's**
+- ⚡ Fun fact **I think I'm exception than others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

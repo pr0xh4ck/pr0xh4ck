@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Hacking, Programing & Startup**
 
-- 📫 How to reach me **pr0xh4ck@outlook.com**
+- 📫 How to reach me **pr0xh4ck@gmail.com**
 
 - 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
 

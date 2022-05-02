@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
 
-- ⚡ Fun fact **I think I'm an exception from others**
+- ⚡ Fun fact **A little bit hungry I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Security**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **BlockChain Security**
 
 - 👨‍💻 All of my projects are available at [pr0xh4ck](https://github.com/pr0xh4ck?tab=repositories)
 
-- 💬 Ask me about **Technology**
+- 💬 Ask me about **Whatever you want to know**
 
 - 📫 How to reach me **pr0xh4ck@gmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Abduallah Al-Mamun AKA "@pr0xh4ck"</h1>
+<h1 align="center">Hi 👋, I'm Md. Abduallah Al-Mamun aka "@pr0xh4ck"</h1>
 <h3 align="center">| Security Enthusiast | Developer | Entrepreneur | Eng. Student | Troubleshooter |</h3>
 
 - 🔭 I’m currently working on **Security**

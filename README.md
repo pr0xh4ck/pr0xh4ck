@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BlockChain Security**
 
-- 👨‍💻 All of my projects are available at [pr0xh4ck](https://pr0xh4ck.github.io/mechanic/)
+- 👨‍💻 All of my projects are available at [MECHANIC](https://pr0xh4ck.github.io/mechanic/)
 
 - 💬 Ask me about **Whatever you want to know**
 

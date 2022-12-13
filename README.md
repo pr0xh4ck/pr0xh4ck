@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **BlockChain Security**
 
-- 👨‍💻 All of my projects are available at [MECHANIC](https://www.facebook.com/m3ch4xn1c/)
+- 👨‍💻 All of my projects are available at [prolepx](https://prolepx.com/)
 
 - 💬 Ask me about **Whatever you want to know**
 
-- 📫 How to reach me **pr0xh4ck@gmail.com**
+- 📫 How to reach me **ceo@prolepx.com**
 
 - 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
 

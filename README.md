@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ceo@prolepx.com**
 
-- 📄 Know about my experiences [pr0xh4ck](https://pr0xh4ck.github.io)
+- 📄 Know about my experiences [prolepx](https://prolepx.com)
 
 - ⚡ Fun fact **A little bit hungry I am**
 

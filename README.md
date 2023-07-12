@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abduallah Al Mamun aka "pr0xh4ck"</h1>
 <h3 align="center">| Entrepreneur | Security Enthusiast | Developer | Troubleshooter |</h3>
 
-- 🔭 I’m currently working on **Security**
+- 🔭 I’m currently working on **Founder of PG**
 
-- 🌱 I’m currently learning **BlockChain Security**
+- 🌱 I’m currently learning **Business**
 
 - 👨‍💻 All of my projects are available at [prolepx](https://prolepx.com/)
 

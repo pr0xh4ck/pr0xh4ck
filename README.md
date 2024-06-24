@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [prolepx](https://prolepx.com/)
 
-- 💬 Ask me about **Whatever you want to know**
+- 💬 Ask me about **Cashflow**
 
 - 📫 How to reach me **contact@prolepx.com**
 

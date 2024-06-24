@@ -1,4 +1,4 @@
-<h1 align="center"> As Salamu Alaikum Owa Rahmatullah </h1>
+<h1 align="center"> As Salamu Alaikum Owa Rohmatullah </h1>
 <h2 align="center"> Welcome To My Planet! Cheers </h2>
 <h3 align="center">| A for Asset | B for Business | C for Cash |</h3>
 

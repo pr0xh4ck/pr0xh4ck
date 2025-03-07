@@ -1,16 +1,16 @@
-<h1 align="center"> As Salamu Alaikum Owa Rohmatullah </h1>
+<h1 align="center"> As Salamu Alaikum </h1>
 <h2 align="center"> Welcome To My Planet! Cheers </h2>
 <h3 align="center">| A for Asset | B for Business | C for Cash |</h3>
 
-- 🔭 I’m currently working on **Team Lead**
+- 🔭 I’m currently working on **Business**
 
-- 🌱 I’m currently learning **Money Making**
+- 🌱 I’m currently learning **Forex, Crypto, & Binary**
 
 - 👨‍💻 All of my projects are available at [prolepx](https://prolepx.com/)
 
 - 💬 Ask me about **Cashflow**
 
-- 📫 How to reach me **contact@prolepx.com**
+- 📫 How to reach me **ceo@prolepx.com**
 
 - 📄 Know about my experiences [prolepx](https://prolepx.com)
 
@@ -27,4 +27,4 @@
 </p>
 
 
-PG © 2024
+PG © 2025

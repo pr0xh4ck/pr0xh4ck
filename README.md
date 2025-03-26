@@ -6,14 +6,6 @@
 
 - 🌱 I’m currently learning **Forex, Crypto, & Binary**
 
-- 👨‍💻 All of my projects are available at [prolepx](https://prolepx.com/)
-
-- 💬 Ask me about **Cashflow**
-
-- 📫 How to reach me **ceo@prolepx.com**
-
-- 📄 Know about my experiences [prolepx](https://prolepx.com)
-
 - ⚡ Fun fact **A little bit hungry I am**
 
 <h3 align="left">Connect with me:</h3>

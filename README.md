@@ -1,6 +1,6 @@
 <h1 align="center"> As Salamu Alaikum </h1>
 <h2 align="center"> Welcome To My Planet! Cheers </h2>
-<h3 align="center">| A for Asset | B for Business | C for Cash |</h3>
+<h3 align="center">| A for Asset | B for Business | C for Crypto | F for Forex | G for Gold | L for Land | S for Stock | T for Trading |</h3>
 
 - 🔭 I’m currently working on **Business**
 

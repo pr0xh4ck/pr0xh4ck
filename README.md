@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Business**
 
-- 🌱 I’m currently learning **Forex, Crypto, & Binary**
+- 🌱 I’m currently learning **Forex, Crypto, & Stock**
 
 - ⚡ Fun fact **A little bit hungry I am**
 
